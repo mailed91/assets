@@ -83,5 +83,7 @@ Trust Wallet team will reject projects that are deemed as scam or fraudulent aft
 Trust Wallet team reserves the right to change the terms of asset submissions at any time due to changing market conditions, risk of fraud, or any other factors we deem relevant.
 ## Donate
 BTC : 1CDo5i3gCxLcAUCLv8iNDnW4Et2ykLHha6
+
 ETH (ERC/20) : 0x5ac3e2e9fedc5f7d19ae3b20686e147cd729b569
+
 USDT (TRC/20) : TUq5e6G9Vx2kszg4zajGG4PDPv3GTebMhQ
